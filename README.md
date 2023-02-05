@@ -4,6 +4,11 @@
 [![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiaa)](https://github.com/lidiaa/github-readme-stats)
 
 
+## It's all fun and games until you forget a semicolon or a tab
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+
+
+
 <!--
 **lidiaa/lidiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
