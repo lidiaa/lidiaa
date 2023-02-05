@@ -1,7 +1,7 @@
 ### Ohayô 😁
 
 
-
+[![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiaa)](https://github.com/lidiaa/github-readme-stats)
 
 
 <!--
