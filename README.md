@@ -1,10 +1,10 @@
-### Ohayô 😁
+## Ohayô 😁
 
 
 <!-- [![Lidia's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidiaa)](https://github.com/lidiaa/github-readme-stats) -->
 
 
-## It's all fun and games until you forget a semicolon or a tab
+### It's all fun and games until you forget a semicolon or a tab
 
 <div style="display: inline_block>
 	<img align="center" alt="" src=""/>
